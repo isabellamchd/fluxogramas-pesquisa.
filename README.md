@@ -66,3 +66,8 @@ Os fluxogramas são usados no desenvolvimento de sistemas para representar visua
 exemplo de fluxograma para verificar se o número é par ou impar. 💕
 
 ![image](https://github.com/user-attachments/assets/85f4101b-778d-40a7-b774-928ecd18cb3e)
+
+exemplo de fluxograma para criar um cadastro de um usuário. 💕
+
+![image](https://github.com/user-attachments/assets/3fa7e07a-b10d-425f-8503-90f2ce1cc5cb)
+
