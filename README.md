@@ -71,3 +71,6 @@ exemplo de fluxograma para criar um cadastro de um usuário. 💕
 
 ![image](https://github.com/user-attachments/assets/3fa7e07a-b10d-425f-8503-90f2ce1cc5cb)
 
+## Conclusão: 
+
+Os fluxogramas são essenciais no desenvolvimento, pois oferecem uma representação visual clara dos processos, facilitando a compreensão, identificação de problemas e otimizações. Eles melhoram a comunicação entre equipes, ajudam na padronização e oferecem uma base para decisões e melhorias contínuas, garantindo eficiência e alinhamento nas etapas do desenvolvimento.
